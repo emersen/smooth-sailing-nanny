@@ -1,0 +1,57 @@
+# Site settings
+title: Smooth Sailing Nanny Services
+email: em.phillips92@icloud.com
+url: http://smoothsailingnanny.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "Nanny, child care, dwolla, San Diego, babysitting "
+skills: "Anchoring your Childcare Needs"
+meta_author: Phillips Emersen
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 1d3986 #1d3986
+  primary-rgb: "29,57,134" #"29,57,134"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Emersen Phillips
+  location: Location
+  social: My Social Sites
+  credits: References
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: http://facebook.com/Smoothsailingnanny
+  - title: linkedin
+    url:  https://www.linkedin.com/in/emersen-elisabeth-phillips-a5392a108/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Available in all locations in
+  - line: San Diego County, California
+
+# Credits content
+credits: 'Available upon request. Please feel free to contact me.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty

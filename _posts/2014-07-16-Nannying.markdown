@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: nannying.png
+alt: image-alt
+project-date: April 2014
+client: Full-time for 3 Families
+category: Nannying
+description: Do you want personalized in home childcare? Get the benefit of an early childhood educator without the high child to teacher ratios and one schedule for all children daycares. Your child will receive high quality, personalized care based on the philosophies your family aligns with and your home will be maintained with light housekeeping, organization and children’s laundry laundered. Rates start at $18 an hour. I am currently unavailable for full time or part time nanny positions.
+
+---

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2017-06-10T13:37:25-07:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Smooth Sailing Nanny Services</title>
+  
+
+  
+    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Overnight Newborn Care</title>
+      <link href="http://localhost:4000/overnight%20newborn%20care/2014/07/18/Overnight-Newborn-Care/" rel="alternate" type="text/html" title="Overnight Newborn Care" />
+      <published>2014-07-18T00:00:00-07:00</published>
+      <updated>2014-07-18T00:00:00-07:00</updated>
+      <id>http://localhost:4000/overnight%20newborn%20care/2014/07/18/Overnight-Newborn-Care</id>
+      <content type="html" xml:base="http://localhost:4000/overnight%20newborn%20care/2014/07/18/Overnight-Newborn-Care/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Overnight Newborn Care" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Babysitting</title>
+      <link href="http://localhost:4000/babysitting/2014/07/17/Babysitting/" rel="alternate" type="text/html" title="Babysitting" />
+      <published>2014-07-17T00:00:00-07:00</published>
+      <updated>2014-07-17T00:00:00-07:00</updated>
+      <id>http://localhost:4000/babysitting/2014/07/17/Babysitting</id>
+      <content type="html" xml:base="http://localhost:4000/babysitting/2014/07/17/Babysitting/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Babysitting" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Nannying</title>
+      <link href="http://localhost:4000/nannying/2014/07/16/Nannying/" rel="alternate" type="text/html" title="Nannying" />
+      <published>2014-07-16T00:00:00-07:00</published>
+      <updated>2014-07-16T00:00:00-07:00</updated>
+      <id>http://localhost:4000/nannying/2014/07/16/Nannying</id>
+      <content type="html" xml:base="http://localhost:4000/nannying/2014/07/16/Nannying/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Nannying" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
