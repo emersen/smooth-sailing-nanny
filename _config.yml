@@ -56,3 +56,4 @@ credits: 'Available upon request. Please feel free to contact me.'
 # Build settings
 markdown: kramdown
 permalink: pretty
+remote_theme: jeromelachaud/freelancer-theme
